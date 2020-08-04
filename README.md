@@ -1,16 +1,19 @@
-### Hi there 👋
+```
+██╗    ██╗██╗  ██╗ ██████╗  █████╗ ███╗   ███╗██╗
+██║    ██║██║  ██║██╔═══██╗██╔══██╗████╗ ████║██║
+██║ █╗ ██║███████║██║   ██║███████║██╔████╔██║██║
+██║███╗██║██╔══██║██║   ██║██╔══██║██║╚██╔╝██║██║
+╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝                                                
+```
 
-<!--
-**gabrielgaraujo/gabrielgaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gabriel Araujo
 
-Here are some ideas to get you started:
+I'm a Brazilian software engineer currently living in Berlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was raised playing SNES and PC games. 
+This passion for videogames and technology made me pursue the software engineering career, and also the frustation for not being able to become a cop :policeman:!
+
+I'm a rubist by heart, but also have been playing with React, Elixir and the Godot game engine, which uses a Python like programming language called GDScript.
+
+Feel free to check my [LinkedIn](https://www.linkedin.com/in/gabrielgaraujo/) out to see what I'm doing nowadays!
